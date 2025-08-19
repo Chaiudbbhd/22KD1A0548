@@ -3,7 +3,8 @@ URL Shortener Project
 This is a simple URL Shortener application built with a React (Vite) frontend and a Node.js + Express backend.
 The application allows users to shorten long URLs and manage them easily.
 
-Preview of the project: Click here to view screenshot
+Preview of the project: [Click here to view screenshot](https://ibb.co/FLpCxXnp)
+
 
      
 

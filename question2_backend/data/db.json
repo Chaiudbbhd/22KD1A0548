@@ -1,0 +1,73 @@
+{
+  "urls": {
+    "lpklpk": {
+      "code": "lpklpk",
+      "url": "https://www.youtube.com/",
+      "createdAt": "2025-08-19T07:00:13.045Z",
+      "expiry": "2025-08-19T07:20:13.045Z",
+      "clicks": []
+    },
+    "lpkl123": {
+      "code": "lpkl123",
+      "url": "https://www.instagram.com/",
+      "createdAt": "2025-08-19T07:02:51.123Z",
+      "expiry": "2025-08-19T07:12:51.123Z",
+      "clicks": []
+    },
+    "visha": {
+      "code": "visha",
+      "url": "https://www.youtube.com/",
+      "createdAt": "2025-08-19T07:03:16.506Z",
+      "expiry": "2025-08-19T07:05:16.506Z",
+      "clicks": [
+        {
+          "at": "2025-08-19T07:03:24.965Z",
+          "referrer": "direct",
+          "location": "::1"
+        }
+      ]
+    },
+    "juads": {
+      "code": "juads",
+      "url": "https://www.instagram.com/",
+      "createdAt": "2025-08-19T07:03:54.650Z",
+      "expiry": "2025-08-19T07:05:54.650Z",
+      "clicks": []
+    },
+    "lpk12": {
+      "code": "lpk12",
+      "url": "https://www.instagram.com/",
+      "createdAt": "2025-08-19T07:08:59.749Z",
+      "expiry": "2025-08-19T07:11:59.749Z",
+      "clicks": []
+    },
+    "aru12": {
+      "code": "aru12",
+      "url": "https://www.youtube.com/",
+      "createdAt": "2025-08-19T07:08:59.755Z",
+      "expiry": "2025-08-19T07:13:59.755Z",
+      "clicks": []
+    },
+    "vish12": {
+      "code": "vish12",
+      "url": "https://github.com/Chaiudbbhd",
+      "createdAt": "2025-08-19T07:09:26.477Z",
+      "expiry": "2025-08-19T07:14:26.477Z",
+      "clicks": []
+    },
+    "lpk34": {
+      "code": "lpk34",
+      "url": "https://github.com/Chaiudbbhd",
+      "createdAt": "2025-08-19T07:16:53.451Z",
+      "expiry": "2025-08-19T07:28:53.451Z",
+      "clicks": []
+    },
+    "oki23": {
+      "code": "oki23",
+      "url": "https://www.youtube.com/",
+      "createdAt": "2025-08-19T07:17:11.074Z",
+      "expiry": "2025-08-19T07:32:11.074Z",
+      "clicks": []
+    }
+  }
+}

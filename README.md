@@ -5,24 +5,7 @@ The application allows users to shorten long URLs and manage them easily.
 
 Preview of the project: Click here to view screenshot
 
-Project Structure
-22KD1A0548/
-│
-├── Q1_Frontend/        
-│   └── frontend/
-│       ├── src/
-│       ├── public/
-│       ├── package.json
-│       └── README.md
-│
-├── question2_backend/  
-│   ├── data/
-│   ├── logs/
-│   ├── server.js
-│   ├── logger.js
-│   └── package.json
-│
-└── README.md            
+     
 
 Running the Project Locally
 1. Clone the Repository

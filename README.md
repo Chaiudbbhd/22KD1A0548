@@ -22,7 +22,7 @@ Project Structure
 │   ├── logger.js
 │   └── package.json
 │
-└── README.md            # Main readme file
+└── README.md            
 
 Running the Project Locally
 1. Clone the Repository
